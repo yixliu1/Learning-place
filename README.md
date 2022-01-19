@@ -21,7 +21,7 @@
 ## Visualisation
 - Model result visulization
 - Business report
-- Geospartial visulization
+- [Geospartial visulization](https://github.com/yixliu1/Learning-place/blob/main/Content/Visulisation/The%20effect%20of%20COVID.pdf)
 
 ## Coding
 - Algorithm
